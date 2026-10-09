@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+backend/data/
+backend/*.db
+backend/smoke-*.db
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
